@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Sinistre";
+  src:  url("Sinistre-clt/Sinistre/web/Sinistre-StCaroline.woff2") format("woff2"),
+        url("Sinistre-clt/Sinistre/web/Sinistre-StCaroline.woff") format("woff");
+}
+
+.sinistre{
+  font-family: "Sinistre";
+}
